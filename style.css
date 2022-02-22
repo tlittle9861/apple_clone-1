@@ -137,9 +137,8 @@ nav li {
   display: inline-block;
   vertical-align: top;
   height: 44px;
-}
-nav li:not(:last-child) {
-  margin-right: 51.6px;
+  text-align: center;
+  width: 10%;
 }
 nav a {
   display: inline-block;
